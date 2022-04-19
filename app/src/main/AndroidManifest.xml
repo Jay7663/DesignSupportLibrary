@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DesignSupportLibrary">
         <activity
+            android:name=".CoordinatorScrollActivity"
+            android:exported="false" />
+        <activity
             android:name=".NavigationDrawerHomeActivity"
             android:exported="false" />
         <activity

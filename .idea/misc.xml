@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.118" />
+        <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/layout/activity_coordinator_scroll.xml" value="0.18206521739130435" />
         <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/layout/activity_main.xml" value="0.18206521739130435" />
         <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/layout/activity_navigation_drawer_home.xml" value="0.18206521739130435" />
         <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/layout/drawer_header.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/layout/scrolling_content.xml" value="0.18206521739130435" />
         <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/menu/drawer_list.xml" value="0.2557291666666667" />
         <entry key="..\:/Users/jaymo/AndroidStudioProjects/DesignSupportLibrary/app/src/main/res/menu/nav_header.xml" value="0.2557291666666667" />
       </map>

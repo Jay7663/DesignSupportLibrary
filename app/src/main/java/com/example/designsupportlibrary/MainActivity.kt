@@ -11,9 +11,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val btnNavigationView: Button = findViewById(R.id.btnNavigationView)
+        val btnCoordinatorScroll: Button = findViewById(R.id.btnCoordinatorScroll)
 
         btnNavigationView.setOnClickListener {
             startActivity(Intent(this, NavigationDrawerHomeActivity::class.java))
+        }
+
+        btnCoordinatorScroll.setOnClickListener {
+            startActivity(Intent(this, CoordinatorScrollActivity::class.java))
         }
     }
 }
